@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hey, everyone!👋 I'm Umang Rastogi!
+
+- <p><em>Robotics Graduate Student at <a href="https://robotics.umd.edu/">UMD</a> <img src="https://media1.giphy.com/media/VGQh2JdmphZHUBT0Bi/giphy.gif" width="30"> </em></p>
+- <p><em>Software Developer Intern at <a href="https://www.digitaldreamlabs.com/">Digital Dream Labs</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
+
 
 <!--
 **urastogi885/urastogi885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
