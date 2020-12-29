@@ -8,7 +8,7 @@
 ## Little bit about me
 - <p><em>Robotics Masters Student at <a href="https://robotics.umd.edu/">UMD</a> graduating in May 2021 <img src="https://media1.giphy.com/media/VGQh2JdmphZHUBT0Bi/giphy.gif" width="30"> </em></p>
 - <p><em>Software Developer Intern at <a href="https://www.digitaldreamlabs.com/">Digital Dream Labs</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
-- <p><em>Passionate about the autonomous vehicles industry <img src="https://media2.giphy.com/media/10KTzf4qO2mMY8/giphy.gif" width="30"> </em></p>
+- Passionate about the autonomous vehicles industry :heart_eyes:
 
 ## 🔧 Tools & Technologies
 - Operating Systems: ![OS: Linux](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=orange)
