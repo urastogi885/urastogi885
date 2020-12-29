@@ -2,14 +2,13 @@
 
 [![Jobs](https://img.shields.io/badge/Looking%20for%20a%20job%3F-Yes-green.svg)](https://shields.io/)
 [![Linkedin: Umang](https://img.shields.io/badge/-Umang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urastogi96/)](https://www.linkedin.com/in/urastogi96/)
-![GitHub followers](https://img.shields.io/github/followers/urastogi885?label=Follow&style=social)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <!--[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://urastogi.wordpress.com/)-->
 
 ## Little bit about me
 - <p><em>Robotics Masters Student at <a href="https://robotics.umd.edu/">UMD</a> graduating in May 2021 <img src="https://media1.giphy.com/media/VGQh2JdmphZHUBT0Bi/giphy.gif" width="30"> </em></p>
 - <p><em>Software Developer Intern at <a href="https://www.digitaldreamlabs.com/">Digital Dream Labs</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
-- Passionate about the autonomous vehicles industry :heart_eyes:
+- <p><em>Passionate about the autonomous vehicles industry <img src="https://media2.giphy.com/media/10KTzf4qO2mMY8/giphy.gif" width="30"> </em></p>
 
 ## 🔧 Tools & Technologies
 - Operating Systems: ![OS: Linux](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=orange)
