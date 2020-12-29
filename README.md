@@ -9,7 +9,7 @@
 - Robotics Masters Student at <a href="https://robotics.umd.edu/">UMD</a> graduating in May 2021 <img src="https://media1.giphy.com/media/VGQh2JdmphZHUBT0Bi/giphy.gif" width="30">
 - Software Developer Intern at <a href="https://www.digitaldreamlabs.com/">Digital Dream Labs</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Passionate about the autonomous vehicles industry :heart_eyes:
-- Love to give back to the open source community <img src="https://media4.giphy.com/media/LpDmM2wSt6Hm5fKJVa/200w.webp?cid=ecf05e47mvt1xyhxtttwhowhtcqx6yeg0c5pmd3vv21la29q&rid=200w.webp" width="30">
+- Love to give back to the open source community :green_heart:
 
 ## :wrench: Tools & Technologies
 - Operating Systems: ![OS: Linux](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=orange)
