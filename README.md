@@ -5,12 +5,13 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <!--[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://urastogi.wordpress.com/)-->
 
-## Little bit about me
-- <p><em>Robotics Masters Student at <a href="https://robotics.umd.edu/">UMD</a> graduating in May 2021 <img src="https://media1.giphy.com/media/VGQh2JdmphZHUBT0Bi/giphy.gif" width="30"> </em></p>
-- <p><em>Software Developer Intern at <a href="https://www.digitaldreamlabs.com/">Digital Dream Labs</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
+## :memo: Little bit about me
+- Robotics Masters Student at <a href="https://robotics.umd.edu/">UMD</a> graduating in May 2021 <img src="https://media1.giphy.com/media/VGQh2JdmphZHUBT0Bi/giphy.gif" width="30">
+- Software Developer Intern at <a href="https://www.digitaldreamlabs.com/">Digital Dream Labs</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Passionate about the autonomous vehicles industry :heart_eyes:
+- Love to give back to the open source community <img src="https://media4.giphy.com/media/LpDmM2wSt6Hm5fKJVa/200w.webp?cid=ecf05e47mvt1xyhxtttwhowhtcqx6yeg0c5pmd3vv21la29q&rid=200w.webp" width="30">
 
-## 🔧 Tools & Technologies
+## :wrench: Tools & Technologies
 - Operating Systems: ![OS: Linux](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=orange)
 - Programming Languages: [![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)](https://www.cplusplus.com/) [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=green)](https://www.python.org/)
 - IDEs: [![VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)](https://code.visualstudio.com/) [![PyCharm](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=jetbrains&logoColor=white&color=green)](https://www.jetbrains.com/pycharm/) 
