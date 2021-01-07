@@ -1,6 +1,6 @@
 # Hi, I'm Umang Rastogi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40">
 
-[![Jobs](https://img.shields.io/badge/Looking%20for%20a%20job%3F-Yes-green.svg)](https://shields.io/)
+[![Jobs](https://img.shields.io/badge/Job%20Hunting%3F-Yes-green.svg)](https://shields.io/)
 [![Linkedin: Umang](https://img.shields.io/badge/-Umang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urastogi96/)](https://www.linkedin.com/in/urastogi96/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <!--[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://urastogi.wordpress.com/)-->
