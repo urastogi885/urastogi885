@@ -2,14 +2,15 @@
 
 [![Jobs](https://img.shields.io/badge/Job%20Hunting%3F-Yes-green.svg)](https://shields.io/)
 [![Linkedin: Umang](https://img.shields.io/badge/-Umang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urastogi96/)](https://www.linkedin.com/in/urastogi96/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://urastogi.wordpress.com/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<!--[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://urastogi.wordpress.com/)-->
 
 ## :memo: Little bit about me
 - Robotics Masters Student at <a href="https://robotics.umd.edu/">UMD</a> graduating in May 2021 <img src="https://media1.giphy.com/media/VGQh2JdmphZHUBT0Bi/giphy.gif" width="30">
 - Software Developer Intern at <a href="https://www.digitaldreamlabs.com/">Digital Dream Labs</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Passionate about the autonomous vehicles industry :heart_eyes:
 - Love to give back to the open source community :green_heart:
+- Check out my <a href="https://www.urastogi.me/">website</a> to know more about me :globe_with_meridians:
 
 ## :wrench: Tools & Technologies
 - Operating Systems: ![OS: Linux](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=orange)
