@@ -2,7 +2,6 @@
 
 <!-- [![Jobs](https://img.shields.io/badge/Open%20to%20new%20roles%3F-Yes-green.svg)](https://shields.io/) -->
 [![Linkedin: Umang](https://img.shields.io/badge/-Umang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urastogi96/)](https://www.linkedin.com/in/urastogi96/)
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://urastogi.wordpress.com/)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://opensource.org/)
 
 ## :memo: Little bit about me
@@ -10,7 +9,6 @@
 - <a href="https://robotics.umd.edu/">UMD</a> Graduate with a master's degree in Robotics <img src="https://media1.giphy.com/media/VGQh2JdmphZHUBT0Bi/giphy.gif" width="30">
 - Passionate about the autonomous vehicles industry :heart_eyes:
 - Love to give back to the open source community :green_heart:
-- Check out my <a href="https://www.urastogi.me/">website</a> to know more about me :globe_with_meridians:
 
 ## :wrench: Tools & Technologies
 - Operating Systems: ![OS: Linux](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=orange)
