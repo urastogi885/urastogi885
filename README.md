@@ -5,7 +5,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://opensource.org/)
 
 ## :memo: Little bit about me
-- Software Developer at <a href="https://www.digitaldreamlabs.com/">Digital Dream Labs</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Software Engineer at <a href="https://www.mathworks.com/">The MathWorks</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - <a href="https://robotics.umd.edu/">UMD</a> Graduate with a master's degree in Robotics <img src="https://media1.giphy.com/media/VGQh2JdmphZHUBT0Bi/giphy.gif" width="30">
 - Passionate about the autonomous vehicles industry :heart_eyes:
 - Love to give back to the open source community :green_heart:
